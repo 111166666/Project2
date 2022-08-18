@@ -10,16 +10,16 @@
 --------------------------------------------------------------*/
 body {
   font-family: "Open Sans", sans-serif;
-  color: #444444;
+  color: #44444;
 }
 
 a {
-  color: #1977cc;
+  color: #;
   text-decoration: none;
 }
 
 a:hover {
-  color: #3291e6;
+  color: #1977cc;
   text-decoration: none;
 }
 
@@ -104,8 +104,8 @@ h6 {
 }
 
 .back-to-top:hover {
-  background: #298ce5;
-  color: #fff;
+  background: green;
+  color: yellow;
 }
 
 .back-to-top.active {
@@ -154,7 +154,7 @@ h6 {
 }
 
 #topbar .social-links a {
-  color: #437099;
+  color: green;
   padding-left: 15px;
   display: inline-block;
   line-height: 1px;
